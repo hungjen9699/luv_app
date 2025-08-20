@@ -1,6 +1,6 @@
-# Flutter Web Deploy with GitHub Pages
 
-This workflow will build your Flutter web app and deploy it to GitHub Pages.
+# Flutter Web Deploy with GitHub Pages
+# This workflow will build your Flutter web app and deploy it to GitHub Pages.
 
 name: Deploy Flutter Web to GitHub Pages
 
